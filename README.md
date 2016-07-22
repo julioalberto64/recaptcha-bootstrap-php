@@ -1,4 +1,4 @@
-# recaptcha-bootstrap-php
+# Simple recaptcha-bootstrap-php
 
 =======================
 Formulario de Contacto, Bootstrap 3, con  Google reCaptcha, php
@@ -6,7 +6,7 @@ Formulario de Contacto, Bootstrap 3, con  Google reCaptcha, php
 Una forma sencilla de un formulario de php con Boostrap 3 usando [Google's reCAPTCHA](https://developers.google.com/recaptcha/). 
 Los mensajes enviados se envían a una dirección de correo electrónico especificada.
 
-El formulario esta creado para N cantidad de campos en el formulario.
+# El formulario esta creado para N cantidad de campos en el formulario y con seguridad de Recaptcha y simple de entender.
 
 
 ## Version History
